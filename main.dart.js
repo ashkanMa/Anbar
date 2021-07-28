@@ -34361,9 +34361,10 @@ $S:335}
 S.a6I.prototype={
 $0:function(){var s,r=this.a,q=r.x
 if(q<1){q=r.f
+q=q!==!1&&q!=null
 s=t._
 r=r.c
-if(q!==!1){r.toString
+if(q){r.toString
 K.Eu(r,"homepage",new S.a6G(),s)}else{r.toString
 K.Eu(r,"login",new S.a6H(),s)}this.b.aS(0)}else r.x=q-1},
 $S:2}
