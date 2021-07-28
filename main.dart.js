@@ -11385,8 +11385,7 @@ break
 case 4:return P.d6()
 case 1:return P.d7(o)}}},t.cL)}},S={iT:function iT(a){this.a=null
 this.b=a},mp:function mp(a){this.a=a},M7:function M7(a){var _=this
-_.f=!1
-_.r=null
+_.r=_.f=null
 _.x=4
 _.a=null
 _.b=a
@@ -34382,7 +34381,7 @@ ao:function(){return new R.JH(C.q)}}
 R.JH.prototype={
 aJ:function(){this.bd()},
 H:function(a7,a8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3=null,a4=t.w,a5=a8.J(a4).f,a6=a8.J(a4).f
-a4=T.VC(!1,U.nS("assets/img/sky.jpg",a3,C.iM,a8.J(a4).f.a.b,a3),0.8)
+a4=T.VC(!1,U.nS("assets/img/sky.jpg",a3,C.iM,a8.J(a4).f.a.b,a3),0.9)
 s=K.ap(a8).a_s(C.aP)
 r=t.Y
 a5=M.be(a3,T.dH(H.a([T.PS(K.aW(100),U.nS("assets/img/parche.jpg",a3,C.iM,80,80)),T.cT(a3,15,a3),R.BZ(!1,a3,!0,L.K("\u0635\u0646\u0627\u06cc\u0639 \u0646\u0633\u0627\u062c\u06cc \u0633\u06cc\u0628",a3,a3,a3,A.a6(a3,a3,C.h,a3,a3,a3,a3,a3,a3,a3,a3,16,a3,C.k,a3,a3,!0,a3,a3,a3,a3,a3,a3),a3,a3),a3,!0,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3,a3)],r),C.N,C.jA,C.O),C.r,C.aP,a3,a3,a3,a5.a.b/5,a3,a3,a3,a3,a3)
