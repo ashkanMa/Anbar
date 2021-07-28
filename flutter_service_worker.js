@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/img/editprofile.png": "2e917e8d18a89dcd32da0769287e3863",
 "assets/assets/img/exit.png": "73a5c1ca2a3ff9c74aba1d18903953ef",
 "assets/assets/img/message.png": "e13ef3818b82c7ce419486dd61484672",
-"assets/assets/img/parche.jpg": "c6d5758a05089dc03a2a2aa7a84340f0",
+"assets/assets/img/parche.jpg": "5c5aaa493ce78d73d25b3db7fb376075",
 "assets/assets/img/profile.png": "e676ece0f18cd1bbf8ae4dcbc1a8198d",
 "assets/assets/img/sky.jpg": "0b43edb9b36888235678316929bb0667",
 "assets/FontManifest.json": "e7b1f67c15fe6ef3e3fc2d7cb2ee8ec7",
@@ -21,9 +21,9 @@ const RESOURCES = {
 "favicon.png": "cf403cdfc50e3595952f07aa403cfb13",
 "icons/Icon-192.png": "cf403cdfc50e3595952f07aa403cfb13",
 "icons/Icon-512.png": "cf403cdfc50e3595952f07aa403cfb13",
-"index.html": "45f61b7e34e6a1e227008f9c27a5e105",
-"/": "45f61b7e34e6a1e227008f9c27a5e105",
-"main.dart.js": "9ba0dbba2e03e3e36ca9fe920cecc027",
+"index.html": "46ffd5a29815e4f16f124264956e1cc5",
+"/": "46ffd5a29815e4f16f124264956e1cc5",
+"main.dart.js": "5311b8b4df30474f8f88376fc8a2e1cc",
 "manifest.json": "172f1ead1b7ef44fd3c9601231a87e3b",
 "version.json": "ae25fcb85ebb282f4a8813b5ec2abca3"
 };
